@@ -1,6 +1,6 @@
 # Welcome to My Data Analytics Portfolio  
 
-Hi, I’m **Yasser**, a passionate **Data Analyst** who loves turning data into meaningful insights, especially in **finance, business, and visualization**.  
+Hi, I’m **Yasser**, a passionate **Data Analyst** who loves turning data into meaningful insights, especially in **finance and Business**
 
 ---
 
