@@ -17,3 +17,11 @@ Hi, I’m **Yasser**, a passionate **Data Analyst** who loves turning data into 
 - **Tableau**  
 
 ---
+
+## Projects
+## 🚴 Cyclistic Bike-Share Case Study  
+My capstone project from the **Google Data Analytics Certificate**.  
+
+- 📂 [View Project PDF](Case_Study.pdf)  
+-  Includes: Data cleaning (R), analysis, and visualizations  
+-  Focus: Usage patterns of annual members vs. casual riders, with insights for marketing strategies
