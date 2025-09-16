@@ -1,3 +1,3 @@
-Welcome to My Data Analytics Portfolio
+## Welcome to My Data Analytics Portfolio
 
-Certified in Google Data Analytics. Passionate about financial insights, storytelling with data, and creating compelling visualizations.
+Google Certified Data Analyst. Passionate about financial insights, storytelling with data, and creating compelling visualizations.
