@@ -1,7 +1,19 @@
-# Welcome to My Data Analytics Portfolio
-## Data Analyst
-### Education
-- **Bachelor’s Degree in Business Administration**  
-- **Google Data Analytics Certificate**
-### Technical skills
-Excel - SQL - R (Programming) - Tableau
+# Welcome to My Data Analytics Portfolio  
+
+Hi, I’m **Yasser**, a passionate **Data Analyst** who loves turning data into meaningful insights, especially in **finance, business, and visualization**.  
+
+---
+
+## Education  
+-  **Bachelor’s Degree in Business Administration**  
+-  **Google Data Analytics Certificate** (Google Certified Data Analyst)  
+
+---
+
+## Technical Skills  
+- **Excel**  
+- **SQL**  
+- **R (Programming)**  
+- **Tableau**  
+
+---
